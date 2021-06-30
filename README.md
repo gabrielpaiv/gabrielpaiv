@@ -20,16 +20,15 @@
 </div>
 
 <p></p>
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gabrielpaiv&theme=react&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=gabrielpaiv&theme=react&hide_border=true">
+</div>
 
 ### Here is some programming languages I know...
 
-<code><img alt="HTML" title="HTML" height="50" src=""></code>
-<code><img alt="CSS" title="CSS" height="50" src=""></code>
-<code><img alt="JavaScript" title="JS" height="48" src=""></code>
-<code><img alt="TypesCript" title="TS" height="48" src=""></code>
-<code><img alt="NodeJS" title="NodeJS" height="48" src=""></code>
-<code><img alt="CSharp" title="C Sharp" height="48" src=""></code>
+<code><img alt="HTML" title="HTML" height="50" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></code>
+<code><img alt="CSS" title="CSS" height="50" src="https://github.com/detain/svg-logos/blob/master/svg/css3.svg"></code>
+<code><img alt="JavaScript" title="JS" height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/javascript/javascript.svg"></code>
+<code><img alt="TypesCript" title="TS" height="48" src="https://github.com/abranhe/programming-languages-logos/blob/master/src/typescript/typescript.svg"></code>
+<code><img alt="NodeJS" title="NodeJS" height="48" src="https://github.com/fizzed/font-mfizz/blob/master/src/svg/nodejs.svg"></code>
 <code><img alt="C" title="C" height="52" src=""></code>
-<code><img alt="C++" title="C++" height="48" src=""></code>
