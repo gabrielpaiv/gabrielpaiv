@@ -41,8 +41,11 @@
 
 ### My resume with more information
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=curriculoweb" />
+<a  href="https://github.com/gabrielpaiv/curriculoWeb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=curriculoweb">
+</a>
 
 ### My latest creation
-
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=nlw_together" />
+<a  href="https://github.com/gabrielpaiv/nlw_together">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=nlw_together">
+</a>
