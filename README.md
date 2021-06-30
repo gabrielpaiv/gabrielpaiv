@@ -13,9 +13,9 @@
 <!-- Quebra de linha -->
 <p></p>
 
-<div>
-    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=gabrielpaiv&show_icons=true&theme=react">
-    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpaiv&layout=compact&langs_count=10&theme=react">
+<div align="center">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=gabrielpaiv&show_icons=true&theme=react">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpaiv&layout=compact&langs_count=10&theme=react">
 </div>
 
 <p></p>
