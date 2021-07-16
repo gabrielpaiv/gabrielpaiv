@@ -34,5 +34,5 @@
 
 ### My latest creation
 <a  href="https://github.com/gabrielpaiv/nlw_together">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=nlw_together">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=alurakut">
 </a>
