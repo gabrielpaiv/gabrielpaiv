@@ -2,8 +2,8 @@
 
 [![GitHub gabrielpaiv](https://img.shields.io/github/followers/gabrielpaiv?label=follow&style=social)](https://github.com/gabrielpaiv)
 
-- 🔭 I’m currently looking for a job 
-- 🌱 I’m currently learning ![React Badge](https://img.shields.io/badge/React_Native-20232A?style=&logo=react&logoColor=61DAFB)
+- 🔭 I’m currently looking for a job
+- 🌱 I’m currently learning ![React Badge](https://img.shields.io/badge/React-20232A?style=&logo=react&logoColor=61DAFB)
 - 📫 How to reach me 👇
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=plastic&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/apg9/)](https://www.linkedin.com/in/apg9/)
@@ -12,19 +12,38 @@
 
 ### Here are some programming languages I know...
 
-<code><img alt="HTML" title="HTML" height="50" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/HTML.svg"></code>
-<code><img alt="CSS" title="CSS" height="50" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/CSS.svg"></code>
-<code><img alt="JavaScript" title="JS" height="48" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/Javascript.svg"></code>
-<code><img alt="TypesCript" title="TS" height="48" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/Typescript.svg"></code>
-<code><img alt="NodeJS" title="NodeJS" height="48" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/Node.svg"></code>
-<code><img alt="C" title="C" height="52" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/C.svg"></code>
-<code><img alt="PHP" title="PHP" height="52" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/PHP.svg"></code>
-<code><img alt="PostgreSQL" title="PostgreSQL" height="52" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/PostgreSQL.svg"></code>
+###### I know but there's always something to add
 
-### And here are some programming languages ​​I want to learn more...
+<div>
+<code><img alt="HTML" title="HTML" height="50" src="./.github/images/HTML.svg"></code>
+<code><img alt="CSS" title="CSS" height="50" src="./.github/images/CSS.svg"></code>
+<code><img alt="JavaScript" title="JS" height="48" src="./.github/images/Javascript.svg"></code>
 
-<code><img alt="React" title="React" height="52" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/React.svg"></code>
-<code><img alt="Java" title="Java" height="52" src="https://github.com/gabrielpaiv/gabrielpaiv/blob/64aac4772bc1e165b4b7e7b47a26a8483256ab42/.github/images/Java.svg"></code>
+###### Studying and improving
+
+<div>
+<code><img alt="TypesCript" title="TS" height="48" src="./.github/images/Typescript.svg"></code>
+<code><img alt="NodeJS" title="NodeJS" height="48" src="./.github/images/Node.svg"></code>
+<code><img alt="React" title="React" height="52" src="./.github/images/React.svg"></code>
+<code><img alt="Next" title="Next" height="52" src="./.github/images/Next.svg"></code>
+<code><img alt="SASS" title="SASS" height="52" src="./.github/images/SASS.svg"></code>
+<code><img alt="Styled Components" title="Styled Components" height="52" src="./.github/images/Styled-Components.svg"></code>
+
+###### Already worked with
+
+<div>
+<code><img alt="PHP" title="PHP" height="52" src="./.github/images/PHP.svg"></code>
+<code><img alt="PostgreSQL" title="PostgreSQL" height="52" src="./.github/images/PostgreSQL.svg"></code>
+
+###### Knowledge based on
+
+<div>
+<code><img alt="C" title="C" height="52" src="./.github/images/C.svg"></code>
+<code><img alt="Java" title="Java" height="52" src="./.github/images/Java.svg"></code>
+
+###### Also know Unix based terminal
+
+<code><img alt="WSL2" title="WSL2" height="52" src="./.github/images/WSL2.svg"></code>
 
 ### My resume with more information
 
@@ -33,6 +52,7 @@
 </a>
 
 ### My latest creation
-<a  href="https://github.com/gabrielpaiv/nlw_together">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=alurakut">
+
+<a  href="https://github.com/gabrielpaiv/spacetraveling">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=spacetraveling">
 </a>
