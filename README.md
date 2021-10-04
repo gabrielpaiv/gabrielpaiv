@@ -1,4 +1,4 @@
-### Hi there 👋, I'm Gabriel
+## Hi there 👋, I'm Gabriel
 
 [![GitHub gabrielpaiv](https://img.shields.io/github/followers/gabrielpaiv?label=follow&style=social)](https://github.com/gabrielpaiv)
 
@@ -10,7 +10,15 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white&link=https://www.instagram.com/cebola_sapiens/)](https://www.instagram.com/cebola_sapiens/)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=plastic&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5561981976488)](https://api.whatsapp.com/send?phone=5561981976488)
 
-### Here are some programming languages I know...
+## 🏆 Challenge: 90 days streak
+
+<img src="http://github-readme-streak-stats.herokuapp.com?user=gabrielpaiv&theme=react&date_format=j%2Fn%5B%2FY%5D" width="45%" alt="Streak stats"/>
+
+## Here are some programming languages I know...
+
+###### What you'll find on my Github
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielpaiv&theme=react&layout=compact" width="45%" alt="Top Langs"/>
 
 ###### I know but there's always something to add
 
@@ -45,18 +53,18 @@
 
 <code><img alt="WSL2" title="WSL2" height="52" src="./.github/images/WSL2.svg"></code>
 
-### My resume with more information
+## My resume with more information
 
 <a  href="https://github.com/gabrielpaiv/curriculoWeb">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=curriculoweb">
 </a>
 
-### My latest creation
+## My latest creation
 
 <a  href="https://github.com/gabrielpaiv/spacetraveling">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=spacetraveling">
 </a>
 
-### Fun Time!
+## Fun Time!
 
 ![Snake animation](https://github.com/gabrielpaiv/gabrielpaiv/blob/output/github-contribution-grid-snake.svg)
