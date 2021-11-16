@@ -56,7 +56,7 @@
 ## My latest creation
 
 <a  href="https://github.com/gabrielpaiv/spacetraveling">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=spacetraveling">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=gabrielpaiv&theme=react&repo=gofinances">
 </a>
 
 ## Fun Time!
